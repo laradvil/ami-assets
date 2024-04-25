@@ -2,7 +2,7 @@
   "articles": [
     {
       "id": "helloworld",
-      "title": "Hello World"
+      "title": "Hello World!"
     },
     {
       "id": "whoami",
@@ -10,6 +10,9 @@
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "Radvil",
+    "email": "radvil.developer@gmail.com",
+    "role": "Front-End Web Developer",
+    "specialist": "Front-End Angular Development",
   }
 }
