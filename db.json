@@ -1,0 +1,15 @@
+{
+  "articles": [
+    {
+      "id": "helloworld",
+      "title": "Hello World"
+    },
+    {
+      "id": "whoami",
+      "title": "Radvil"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
